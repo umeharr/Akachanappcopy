@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -14,7 +14,6 @@
 		CE3F67B7248282080061E517 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE3F67B5248282080061E517 /* Main.storyboard */; };
 		CE3F67B92482820A0061E517 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE3F67B82482820A0061E517 /* Assets.xcassets */; };
 		CE3F67BC2482820A0061E517 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE3F67BA2482820A0061E517 /* LaunchScreen.storyboard */; };
-		CE3F67C624828AE90061E517 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3F67C524828AE90061E517 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,7 +28,6 @@
 		CE3F67B82482820A0061E517 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE3F67BB2482820A0061E517 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE3F67BD2482820A0061E517 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CE3F67C524828AE90061E517 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,7 +48,6 @@
 				5C7A8EC707769871F4F821E1 /* Pods-Akachanapp.debug.xcconfig */,
 				AAAD0F013C68DB3A9DA3634E /* Pods-Akachanapp.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -78,7 +75,6 @@
 				CE3F67AF248282080061E517 /* AppDelegate.swift */,
 				CE3F67B1248282080061E517 /* SceneDelegate.swift */,
 				CE3F67B3248282080061E517 /* ViewController.swift */,
-				CE3F67C524828AE90061E517 /* ResultViewController.swift */,
 				CE3F67B5248282080061E517 /* Main.storyboard */,
 				CE3F67B82482820A0061E517 /* Assets.xcassets */,
 				CE3F67BA2482820A0061E517 /* LaunchScreen.storyboard */,
@@ -213,7 +209,6 @@
 				CE3F67B4248282080061E517 /* ViewController.swift in Sources */,
 				CE3F67B0248282080061E517 /* AppDelegate.swift in Sources */,
 				CE3F67B2248282080061E517 /* SceneDelegate.swift in Sources */,
-				CE3F67C624828AE90061E517 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
